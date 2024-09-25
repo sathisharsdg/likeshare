@@ -67,3 +67,9 @@ button:nth-child(2) {
     margin-right: -200px;
     color: #7d2ae8;
 }
+
+@media(max-width:560px){
+    body {
+        font-size: 10px!important;
+    }
+}
